@@ -1,4 +1,4 @@
-# Bank Data Anlysis Code
+# Bank Data Anlysis Python Script
 
 
 import os
@@ -98,7 +98,7 @@ with open (file_to_output,'w') as txt_file:
 ------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 
-# Poll Data Analysis Code
+# Poll Data Analysis Python Script
 
 
 import os
